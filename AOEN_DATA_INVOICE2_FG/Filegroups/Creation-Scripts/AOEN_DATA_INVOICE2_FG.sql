@@ -1,0 +1,6 @@
+ALTER DATABASE [$(DatabaseName)]
+    ADD FILEGROUP [AOEN_DATA_INVOICE2_FG];
+
+
+GO
+

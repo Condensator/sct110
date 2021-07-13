@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankAccounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CommissionBankAccounts",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DenominationType",
+    "type": "Table"
+  }
+]

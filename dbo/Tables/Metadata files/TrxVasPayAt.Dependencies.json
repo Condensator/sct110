@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Trx",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxRefundLog",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxVasPayAt",
+    "type": "Table"
+  }
+]

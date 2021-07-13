@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "TrxTypeElectricityVendChannel",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VendChannel",
+    "type": "Table"
+  }
+]

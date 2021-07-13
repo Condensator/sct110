@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BankDep_DepositFeeStructure",
+    "type": "Table"
+  }
+]

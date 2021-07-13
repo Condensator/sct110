@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BankDep_SourceBank",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankDep_TransactionType",
+    "type": "Table"
+  }
+]

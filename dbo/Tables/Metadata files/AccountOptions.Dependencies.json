@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountOptions",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  }
+]

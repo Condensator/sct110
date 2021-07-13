@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Trx",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxSARReservation",
+    "type": "Table"
+  }
+]

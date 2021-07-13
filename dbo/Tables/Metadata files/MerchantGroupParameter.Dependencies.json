@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "MerchantGroup",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "MerchantGroupParameter",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "MerchantGroupParameterType",
+    "type": "Table"
+  }
+]

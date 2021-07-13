@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "TrxBusPassenger",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxBusReservation",
+    "type": "Table"
+  }
+]

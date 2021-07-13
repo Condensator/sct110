@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "MerchantToMerchantChargeFee",
+    "type": "Table"
+  }
+]

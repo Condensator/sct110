@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "SourceBank",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "SystemNotifyBankAccount",
+    "type": "Table"
+  }
+]

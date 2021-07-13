@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "PostBankBeneficiary",
+    "type": "Table"
+  }
+]

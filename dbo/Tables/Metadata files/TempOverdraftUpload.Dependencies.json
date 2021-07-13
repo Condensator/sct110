@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "TempOverdraftFile",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TempOverdraftUpload",
+    "type": "Table"
+  }
+]

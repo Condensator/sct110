@@ -1,0 +1,5 @@
+CREATE USER [AEONTestUser] WITHOUT LOGIN;
+
+
+GO
+

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BulkDepositTransferFile",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BulkDepositTransferUpload",
+    "type": "Table"
+  }
+]

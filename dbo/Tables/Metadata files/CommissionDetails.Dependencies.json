@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "CommissionDetails",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CommissionStructures",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CommissionType",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  }
+]

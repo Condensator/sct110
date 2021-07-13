@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "AccruedSummary",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DevTrxTypeOptions",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypesOptions",
+    "type": "Table"
+  }
+]

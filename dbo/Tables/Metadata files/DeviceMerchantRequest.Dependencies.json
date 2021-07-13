@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DeviceMerchantRequest",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DevUser",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "MerchantRequestType",
+    "type": "Table"
+  }
+]

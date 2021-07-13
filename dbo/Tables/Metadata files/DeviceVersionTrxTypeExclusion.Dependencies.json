@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DeviceVersion",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DeviceVersionTrxTypeExclusion",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  }
+]

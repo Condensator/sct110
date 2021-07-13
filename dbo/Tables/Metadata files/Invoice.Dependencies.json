@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccTrans",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Invoice",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DepositRequestStatus",
+    "type": "Table"
+  }
+]

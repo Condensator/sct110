@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DevTrxTypes_Audit",
+    "type": "Table"
+  }
+]

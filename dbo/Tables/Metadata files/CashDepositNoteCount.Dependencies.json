@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "CashDepositNoteCount",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CashDepositTrx",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_Paths",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "aspnet_PersonalizationAllUsers",
+    "type": "Table"
+  }
+]

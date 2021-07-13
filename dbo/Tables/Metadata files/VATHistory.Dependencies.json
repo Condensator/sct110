@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "VATHistory",
+    "type": "Table"
+  }
+]

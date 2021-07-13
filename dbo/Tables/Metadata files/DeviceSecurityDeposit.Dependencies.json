@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DeviceSecurityDeposit",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_Roles",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "aspnet_Users",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "aspnet_UsersInRoles",
+    "type": "Table"
+  }
+]

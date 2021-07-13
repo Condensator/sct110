@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "CommissionType",
+    "type": "Table"
+  }
+]

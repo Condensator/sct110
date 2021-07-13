@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "CashDepositFeeFile",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CashDepositFeeProcessStatus",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CashDepositFeeUpload",
+    "type": "Table"
+  }
+]

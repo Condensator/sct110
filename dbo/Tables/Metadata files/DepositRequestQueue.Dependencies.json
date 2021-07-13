@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DepositRequestQueue",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DepositRequestStatus",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DepositRequestType",
+    "type": "Table"
+  }
+]

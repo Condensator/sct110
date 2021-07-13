@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Labels",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Language",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Settings_BinningReason",
+    "type": "Table"
+  }
+]

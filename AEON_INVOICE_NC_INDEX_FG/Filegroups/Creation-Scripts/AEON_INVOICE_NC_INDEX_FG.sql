@@ -1,0 +1,6 @@
+ALTER DATABASE [$(DatabaseName)]
+    ADD FILEGROUP [AEON_INVOICE_NC_INDEX_FG];
+
+
+GO
+

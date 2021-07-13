@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Addres",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankAccounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Banks",
+    "type": "Table"
+  }
+]

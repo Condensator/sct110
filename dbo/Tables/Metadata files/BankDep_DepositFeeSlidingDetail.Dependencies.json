@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BankDep_DepositFeeDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankDep_DepositFeeSlidingDetail",
+    "type": "Table"
+  }
+]

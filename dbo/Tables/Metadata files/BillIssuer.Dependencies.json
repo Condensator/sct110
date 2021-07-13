@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BillIssuer",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BillPaymentProvider",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  }
+]

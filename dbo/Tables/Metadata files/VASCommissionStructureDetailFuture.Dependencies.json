@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASCommissionStructure",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASCommissionStructureDetailFuture",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASProduct",
+    "type": "Table"
+  }
+]

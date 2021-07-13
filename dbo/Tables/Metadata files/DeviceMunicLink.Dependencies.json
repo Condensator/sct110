@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DeviceMunicLink",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ElectricityDeviceGuidType",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ExclusiveVasProductBundle",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASProduct",
+    "type": "Table"
+  }
+]

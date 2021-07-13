@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Contacts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  }
+]

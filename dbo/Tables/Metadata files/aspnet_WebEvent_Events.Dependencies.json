@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_WebEvent_Events",
+    "type": "Table"
+  }
+]

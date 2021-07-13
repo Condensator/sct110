@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "DeviceUserCashUpDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTender",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTender_Items",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AllowedProductGrouping",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "AllowedProductGroupingVASProduct",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASProduct",
+    "type": "Table"
+  }
+]

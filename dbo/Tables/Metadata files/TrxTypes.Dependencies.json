@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypesGroup",
+    "type": "Table"
+  }
+]

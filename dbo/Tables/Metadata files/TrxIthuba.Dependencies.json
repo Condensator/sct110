@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Trx",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxIthuba",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxIthuba_Recovery",
+    "type": "Table"
+  }
+]

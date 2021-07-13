@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_Users",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "SystemUserExtendedData",
+    "type": "Table"
+  }
+]

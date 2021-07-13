@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_SchemaVersions",
+    "type": "Table"
+  }
+]

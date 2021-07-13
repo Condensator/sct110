@@ -1,0 +1,52 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "InvoiceDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TJRecon",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Trx",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxElectricityRecon",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxFees",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxInvoiceInterim",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTender_Items",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  }
+]

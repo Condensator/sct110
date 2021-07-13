@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASRebateStructure",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASRebateStructureDetailFuture",
+    "type": "Table"
+  }
+]

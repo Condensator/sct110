@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "Addres",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CommissionStructures",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "EntityStatus",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "EntityType",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "InvoicePriority",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "SalesReps",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "PreferredCommissionRuleFutureDate",
+    "type": "Table"
+  }
+]

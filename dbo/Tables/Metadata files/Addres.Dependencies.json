@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Addres",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Regions",
+    "type": "Table"
+  }
+]

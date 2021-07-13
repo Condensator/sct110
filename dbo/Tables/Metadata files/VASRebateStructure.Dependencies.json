@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "EntityType",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASRebateStructure",
+    "type": "Table"
+  }
+]

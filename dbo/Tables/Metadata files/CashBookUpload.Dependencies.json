@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankAccounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Cashbook",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "CashBookUpload",
+    "type": "Table"
+  }
+]

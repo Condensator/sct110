@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "AEON_INVOICE_NC_INDEX_FG",
+    "name": "AEON_INVOICE_NC_INDEX_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "AOEN_DATA_INVOICE2_FG",
+    "name": "AOEN_DATA_INVOICE2_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxHistory",
+    "type": "Table"
+  }
+]

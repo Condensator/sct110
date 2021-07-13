@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Invoice",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "InvoiceDetail",
+    "type": "Table"
+  }
+]

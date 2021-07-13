@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BankDepositAccountAlias",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "BankDepositAccountReference",
+    "type": "Table"
+  }
+]

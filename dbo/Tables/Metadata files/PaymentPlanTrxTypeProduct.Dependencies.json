@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "PaymentPlan",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "PaymentPlanTrxTypeProduct",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VASProduct",
+    "type": "Table"
+  }
+]

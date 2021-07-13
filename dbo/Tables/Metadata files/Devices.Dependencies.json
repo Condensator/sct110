@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "Addres",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ConnectionSettings",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DeviceTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Entity",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VendChannel",
+    "type": "Table"
+  }
+]

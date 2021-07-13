@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DeviceProductInclusion",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "VasProductCategory",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "EntityType",
+    "type": "Table"
+  }
+]

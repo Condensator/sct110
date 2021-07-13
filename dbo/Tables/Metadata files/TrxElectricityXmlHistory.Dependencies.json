@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "DATA_AUX",
+    "name": "DATA_AUX",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxElectricityXmlHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxElectricityXmlReprints",
+    "type": "Table"
+  }
+]

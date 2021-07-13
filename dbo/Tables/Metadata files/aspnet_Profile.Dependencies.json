@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "aspnet_Profile",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "aspnet_Users",
+    "type": "Table"
+  }
+]

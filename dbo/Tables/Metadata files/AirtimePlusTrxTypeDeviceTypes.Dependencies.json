@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AirtimePlusProductTrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "AirtimePlusTrxTypeDeviceTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DeviceTypes",
+    "type": "Table"
+  }
+]

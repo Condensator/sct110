@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DeviceUserCashUpDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTender",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTender_Items",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "CashDepositFeeProcessStatus",
+    "type": "Table"
+  }
+]

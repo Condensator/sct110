@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "Page_Section",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "RoleName",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "RoleRights",
+    "type": "Table"
+  }
+]

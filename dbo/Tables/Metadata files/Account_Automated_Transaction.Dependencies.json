@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "AEON_NC_Index_FG",
+    "name": "AEON_NC_Index_FG",
+    "type": "Filegroup"
+  },
+  {
+    "schema": "dbo",
+    "name": "Account_Automated_Transaction",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Account_TransactionType",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Accounts",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "ModifiedUser",
+    "type": "Column"
+  }
+]

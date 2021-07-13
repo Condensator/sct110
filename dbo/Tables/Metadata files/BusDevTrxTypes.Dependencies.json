@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BusDevTrxTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "Devices",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "TrxTypes",
+    "type": "Table"
+  }
+]
