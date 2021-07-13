@@ -25,5 +25,7 @@
       ]
     }
   ],
-  "GlobalConfigurations": null
+  "GlobalConfigurations": {
+    "ExternalBuildEnginePath": "DOP.BuildEngine.Console.exe"
+  }
 }
